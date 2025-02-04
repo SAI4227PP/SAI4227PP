@@ -7,14 +7,17 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in JavaScr
 Here are some of my notable projects:
 
 - **[NutrixPath](https://github.com/SAI4227PP/NutrixPath)**: A comprehensive application focused on nutrition and health tracking, built primarily using JavaScript. This project showcases my ability to handle complex data structures and deliver user-friendly interfaces.
-- **[Project 2](https://github.com/SAI4227PP/project2)**: A brief description of Project 2.
-- **[Project 3](https://github.com/SAI4227PP/project3)**: A brief description of Project 3.
+- **[Moviehub](https://github.com/SAI4227PP/Moviehub)**: A feature-rich movie database application that allows users to browse and search for movies. Built with 85.2% JavaScript, 14.6% CSS, and 0.2% HTML, this project highlights my skills in front-end development and user experience design.
+- **[Aora](https://github.com/SAI4227PP/Aora)**: An innovative project developed using 97.8% JavaScript and 2.2% TypeScript. This project demonstrates my proficiency in both JavaScript and TypeScript, showcasing my ability to integrate and work with multiple languages in a single project.
+- **[HealthCare](https://github.com/SAI4227PP/HealthCare)**: A robust health management application built with 99.2% JavaScript and 0.8% other languages. This project emphasizes my expertise in building scalable and efficient health-related solutions.
 
 ## 💻 Skills and Technologies
 
 ### Languages
-- **JavaScript** (99.5%)
-- **Other** (0.5%)
+- **JavaScript** (Primary language)
+- **TypeScript**
+- **CSS**
+- **HTML**
 
 ### Frameworks and Libraries
 - React
