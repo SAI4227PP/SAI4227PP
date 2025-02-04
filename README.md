@@ -38,6 +38,8 @@ I am a passionate Frontend Developer with expertise in building scalable web app
 - **Live Demo:** [Moviehub](https://moviezone4.netlify.app/)
 - **Tech Stack:** 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - **Key Features:**
@@ -51,6 +53,7 @@ I am a passionate Frontend Developer with expertise in building scalable web app
 ### Aora
 - **Tech Stack:** 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - **Features:**
   - Modern architecture implementation
@@ -101,11 +104,18 @@ I am a passionate Frontend Developer with expertise in building scalable web app
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hip6379@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](javascript:void(0))
-
+  <a href="mailto:hip6379@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SAI4227PP">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="javascript:void(0)">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ## ⚡ Fun Facts
