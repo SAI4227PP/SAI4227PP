@@ -104,20 +104,28 @@ I am a passionate Frontend Developer with expertise in building scalable web app
  ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:hip6379@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SAI4227PP">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="javascript:void(0)">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Portfolio" />
-  </a>
+  <div style="
+    border: 3px solid #0366d6; 
+    border-radius: 25px; 
+    padding: 25px 40px;
+    margin: 30px 0;
+    background: linear-gradient(145deg, #f6f8fa, #ffffff);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  ">
+    <a href="mailto:hip6379@gmail.com" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/SAI4227PP" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="javascript:void(0)" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
 </div>
-
 
 ## ⚡ Fun Facts
 
