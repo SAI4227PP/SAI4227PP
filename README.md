@@ -101,57 +101,23 @@ I am a passionate Frontend Developer with expertise in building scalable web app
 - Optimizing application performance
 - Contributing to open-source healthcare projects
 
-## 📫 Let's Connect!
+ ## 📫 Let's Connect!
 
 <div align="center">
-  <div style="border: 2px solid #0366d6; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(145deg, #f3f4f6, #ffffff);">
-    <!-- Social Links with Hover Effects -->
-    <p align="center">
-      <a href="mailto:hip6379@gmail.com" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <a href="https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://github.com/SAI4227PP" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="javascript:void(0)" style="text-decoration: none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Portfolio" />
-      </a>
-    </p>
-
-    <!-- Separator -->
-    <p align="center">
-      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-white?style=for-the-badge&labelColor=white" />
-    </p>
-
-    <!-- Contact Details -->
-    <p align="center">
-      <img src="https://img.shields.io/badge/Updated-2025--02--04-blue?style=flat-square" alt="Last Updated" />
-      <img src="https://img.shields.io/badge/Status-Available-success?style=flat-square" alt="Status" />
-    </p>
-  </div>
-
-  <!-- Decorative Elements -->
-  <p align="center">
-    <sub>
-      <img src="https://img.shields.io/badge/⭐%20Find%20me%20on%20the%20web-white?style=flat-square" alt="Find me on the web" />
-    </sub>
-  </p>
-</div>
-
-<!-- Quick Access Links -->
-<div align="center">
-  <a href="https://github.com/SAI4227PP?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20View%20My%20Repositories-gray?style=for-the-badge" alt="View Repositories"/>
+  <a href="mailto:hip6379@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SAI4227PP">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="javascript:void(0)">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=Hugo&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<!-- Time Stamp -->
-<div align="center">
-  <sub>Last active: 2025-02-04 18:16:47 UTC</sub>
-</div>
 
 ## ⚡ Fun Facts
 
