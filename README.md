@@ -17,16 +17,6 @@ I am a passionate Frontend Developer with expertise in building scalable web app
 - 🚀 Always eager to learn and adapt to new technologies
 - 📅 Last Updated: 2025-02-04
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAI4227PP&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAI4227PP&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI4227PP&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## 🔭 Key Projects
 
