@@ -50,11 +50,6 @@ Here are some of my notable projects:
 - System Architecture
 - Performance Optimization
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAI4227PP&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
 
 ## 📫 Let's Connect!
 
