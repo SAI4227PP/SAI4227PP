@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/JavaScript-Developer-yellow"/>
   <img src="https://img.shields.io/badge/Frontend-Specialist-blue"/>
   <img src="https://img.shields.io/badge/React-Expert-61dafb"/>
+  <img src="https://komarev.com/ghpvc/?username=SAI4227PP&color=blue&style=flat-square&label=Profile+Views"/>
 </div>
 
 ## 🧑‍💻 About Me
@@ -14,48 +15,108 @@ I am a passionate Frontend Developer with expertise in building scalable web app
 - 💼 Frontend Developer with expertise in React.js
 - 🌱 Currently exploring Cloud Technologies and Advanced JavaScript Patterns
 - 🚀 Always eager to learn and adapt to new technologies
+- 📅 Last Updated: 2025-02-04
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAI4227PP&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAI4227PP&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI4227PP&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🔭 Key Projects
 
-Here are some of my notable projects:
+### NutrixPath
+- **Live Demo:** [NutrixPath App](https://nutrix-path.vercel.app)
+- **Tech Stack:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- **Key Features:**
+  - Comprehensive health and nutrition tracking
+  - Interactive dashboard with real-time updates
+  - Personalized meal planning and recommendations
+  - Advanced data visualization
+- **Status:** Active Development
+- **Deployment:** ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-- **[NutrixPath](https://github.com/SAI4227PP/NutrixPath)**: A comprehensive application focused on nutrition and health tracking, built primarily using JavaScript. This project showcases my ability to handle complex data structures and deliver user-friendly interfaces.
-- **[Moviehub](https://github.com/SAI4227PP/Moviehub)**: A feature-rich movie database application that allows users to browse and search for movies. Built with 85.2% JavaScript, 14.6% CSS, and 0.2% HTML, this project highlights my skills in front-end development and user experience design.
-- **[Aora](https://github.com/SAI4227PP/Aora)**: An innovative project developed using 97.8% JavaScript and 2.2% TypeScript. This project demonstrates my proficiency in both JavaScript and TypeScript, showcasing my ability to integrate and work with multiple languages in a single project.
-- **[HealthCare](https://github.com/SAI4227PP/HealthCare)**: A robust health management application built with 99.2% JavaScript and 0.8% other languages. This project emphasizes my expertise in building scalable and efficient health-related solutions.
+### Moviehub
+- **Live Demo:** [Moviehub](https://moviezone4.netlify.app/)
+- **Tech Stack:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **Key Features:**
+  - Advanced movie search and filtering
+  - Responsive design for all devices
+  - Real-time movie data integration
+  - User preferences and watchlist
+- **Status:** Completed
+- **Deployment:** ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+### Aora
+- **Tech Stack:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **Features:**
+  - Modern architecture implementation
+  - Type-safe development
+  - Performance optimized
+- **Status:** In Development
+
+### HealthCare
+- **Tech Stack:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Features:**
+  - Healthcare management system
+  - Patient data handling
+  - Appointment scheduling
+- **Status:** Completed
 
 ## 💻 Technical Skills
 
 ### Frontend Development
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 & CSS3
-- Redux
-- Material UI
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
 ### Backend & Tools
-- Node.js
-- Express.js
-- MongoDB
-- RESTful APIs
-- Git & GitHub
-- Docker
-- Kubernetes
-- Jenkins
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### Currently Exploring
-- Cloud Computing (AWS)
-- Advanced Design Patterns
-- System Architecture
-- Performance Optimization
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![System Design](https://img.shields.io/badge/-System_Design-FF6B6B?style=flat)
+![Performance Optimization](https://img.shields.io/badge/-Performance_Optimization-38B2AC?style=flat)
 
+## 🎯 Current Focus
+- Expanding cloud computing knowledge with AWS
+- Implementing advanced JavaScript design patterns
+- Optimizing application performance
+- Contributing to open-source healthcare projects
 
 ## 📫 Let's Connect!
 
-- **Email**: [hip6379@gmail.com](mailto:hip6379@gmail.com)
-- **LinkedIn**: [Kethini Mohan Sai](https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/)
-- **Portfolio**: [Coming Soon]()
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hip6379@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](javascript:void(0))
+
+</div>
 
 ## ⚡ Fun Facts
 
@@ -67,4 +128,9 @@ Here are some of my notable projects:
 
 <div align="center">
   <i>⭐️ If you like any of my projects, don't forget to give them a star! ⭐️</i>
+</div>
+
+<!-- Dynamic content updates -->
+<div align="center">
+  <sub>Last updated: 2025-02-04 18:09:17 UTC</sub>
 </div>
