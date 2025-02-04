@@ -37,7 +37,7 @@ Here are some of my notable projects:
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [hip6379@gmail.com](mailto:hip6379@gmail.com)
 - **LinkedIn**: [Kethini Mohan Sai](https://www.linkedin.com/in/kethini-mohan-sai-29a3831a8/)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
